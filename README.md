@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArnabDas1808.ArnabDas1808" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi++👋;+I'm+Arnab+Das!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Arnab+Das!;Welcome+to+my+GitHub+World!+🌍;" />
 </h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -19,6 +19,11 @@
 <a href="https://www.leetcode.com/arnabdas1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnabdas1808" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arnab__das_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arnab__das_18" height="30" width="40" /></a>
 </p>
+<br/><br/>
+
+<hr/>
+
+<br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -53,3 +58,16 @@
 <hr/>
 
 <br/>
+<div align="center">
+  <h2>Fun Fact 🎉</h2>
+  <br>
+ Did you know that the first computer bug was discovered in 1947 by Grace Hopper? It wasn't an actual insect, but rather a moth that got stuck in the relays of the Harvard Mark II computer, causing it to     malfunction! 🐛
+
+![Computer Bug](https://th.bing.com/th/id/R.1f901cbfa163ada182548f7d010dcc11?rik=USCz512p0Ym9oA&riu=http%3a%2f%2fi1.kym-cdn.com%2fphotos%2fimages%2foriginal%2f000%2f417%2f967%2ffad.gif&ehk=7tfhFdkA397KD%2fO%2b2Uphn3wPCIOpjjbRTXO0fzt4nEA%3d&risl=&pid=ImgRaw&r=0)
+ 
+  <br/><br/><br/>
+  <hr/>
+</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Arnab+Das!;Welcome+to+my+GitHub+World!+🌍;" />
+</h1>
