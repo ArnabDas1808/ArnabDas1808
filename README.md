@@ -29,5 +29,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnabdas1808&" alt="arnabdas1808" /></p>
 
-## My GitHub Contributions
-![snake_gif](https://github.com/ArnabDas1808/ArnabDas1808/blob/output/github-snake-dark.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
