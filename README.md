@@ -30,4 +30,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnabdas1808&" alt="arnabdas1808" /></p>
 
 ## My GitHub Contributions
-![Snake animation ](https://github.com/ArnabDas1808/ArnabDas1808/blob/output/github-contribution-grid-snake.svg)
+![snake_gif](https://github.com/ArnabDas1808/ArnabDas1808/blob/output/github-snake-dark.svg)
