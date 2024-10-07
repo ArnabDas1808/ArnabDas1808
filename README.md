@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,tenserflow,opencv,pandas" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,TensorFlow-Dark,opencv,pandas" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,nextjs,scikit_learn" /><br>
 </div>
 
