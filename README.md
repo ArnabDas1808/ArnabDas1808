@@ -47,7 +47,7 @@
 <br>
 <div align=center>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=arnabdas1808&show_icons=true&locale=en" alt="arnabdas1808" />
-    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=arnabdas1808&" alt="arnabdas1808" />
+    <img width=415 src="https://github-readme-streak-stats.herokuapp.com/?user=arnabdas1808&" alt="arnabdas1808" />
     <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnabdas1808&show_icons=true&locale=en&layout=compact" alt="arnabdas1808" />
 
