@@ -72,4 +72,4 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thanks+for+visiting!;Let's+create+something+amazing+together!+🚀;" />
 </h1>
 <br/>
-<p align="center">Copyright &#169; 2024 Arnab Das. All Rights Reserved.</p>
+<p align="center">Copyright &#169; 2025 Arnab Das. All Rights Reserved.</p>
